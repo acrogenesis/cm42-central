@@ -7,6 +7,7 @@
 
 ### Added
 - tag group form
+- First time interface tour
 
 ## [1.3.0] - 2017-04-25
 ### Added
