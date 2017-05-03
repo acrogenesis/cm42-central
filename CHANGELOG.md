@@ -7,7 +7,7 @@
 
 ### Added
 - tag group form
-- First time interface tour
+- Added First time tour.
 
 ## [1.3.0] - 2017-04-25
 ### Added
@@ -55,7 +55,6 @@
 ### Added
 - Added a changelog. We will keep tracking from now and on!
 - Added translations on reports description.
-- Added First time tour.
 
 ### Changed
 - Redesign project reports and edit password pages.
